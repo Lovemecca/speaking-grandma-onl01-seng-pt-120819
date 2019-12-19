@@ -1,5 +1,5 @@
-def speak_to_grandma("Hey grandma!")
-  if speak_to_grandma == What?
+UP = speak_to_grandma
+  if UP == FALSE
     print "HUH?! SPEAK UP, SONY!"
   else  
     
